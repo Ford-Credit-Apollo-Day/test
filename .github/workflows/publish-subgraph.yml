@@ -1,4 +1,4 @@
-name: Publish subgraphs to Apollo Studio
+name: Publish subgraphs to Apollo GraphOS Studio
 
 on:
   workflow_dispatch:
